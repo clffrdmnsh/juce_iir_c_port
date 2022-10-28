@@ -13,6 +13,6 @@ mkdir build
 cd build
 cmake .. -G"Unix Makefiles"or -G"XCode" or -G"Visual Studio 16 2022" -A x64
 
-3) Simply add the .h and .c files to a pre existing project and import functions from it. 
+3) Thou shall Simply add the .h and .c files to a pre existing project and import functions from it. 
 
 bless
